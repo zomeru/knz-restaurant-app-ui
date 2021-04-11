@@ -1,6 +1,6 @@
 # knz-resto-food-delivery-serv
 
-A simple restaurant website with food delivery service.
+A simple website I've built from Udemy course and it was designed by Jonas Schmedtmann.
 
 https://zomeru.github.io/knz-resto-food-delivery-serv/
 
