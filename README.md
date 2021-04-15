@@ -1,5 +1,5 @@
 # knz-resto-food-delivery-serv
 
-A simple restaurent website user interface I've built from Udemy course and it was designed by Jonas Schmedtmann.
+A simple restaurent website user interface I've built through HTML and CSS course by Jonas Schmedtmann from Udemy.
 
-https://zomeru.github.io/knz-resto-food-delivery-serv/
+https://zomeru.github.io/knz-restaurant-app-ui/
